@@ -3,3 +3,4 @@ this is a demo for SES1A Spring 2021 Week 3
 
 Benjamin is cool
 Jonathon is also cool
+Mitch is not cool
